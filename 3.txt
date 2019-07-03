@@ -1,0 +1,105 @@
+Percent 0.0 of letter ['€', 0] 
+Percent 17.81 of letter [' ', 23748] 
+Other: 82.19 percent
+процентов учтено: 17.81
+Length of text: 133310
+Title of text: Kant by 90 min
+
+Letter 8 used 78 times
+Letter 7 used 122 times
+Letter [ used 3483 times
+Letter ] used 3887 times
+Letter 1 used 12430 times
+Letter 2 used 12431 times
+Letter / used 12435 times
+Letter 9 used 12437 times
+Letter ~ used 27412 times
+Letter Т used 51726 times
+Letter & used 81589 times
+Letter " used 86956 times
+Letter Ц used 96464 times
+Letter С used 96681 times
+Letter ! used 100569 times
+Letter ( used 106697 times
+Letter ) used 106748 times
+Letter : used 107611 times
+Letter x used 107626 times
+Letter ? used 108210 times
+Letter ' used 108622 times
+Letter j used 108772 times
+Letter z used 108966 times
+Letter - used 109002 times
+Letter ; used 109098 times
+Letter k used 109388 times
+Letter g used 109430 times
+Letter d used 109459 times
+Letter m used 109467 times
+Letter , used 109483 times
+Letter b used 109484 times
+Letter p used 109492 times
+Letter v used 109498 times
+Letter h used 109525 times
+Letter c used 109529 times
+Letter y used 109535 times
+Letter w used 109536 times
+Letter s used 109538 times
+Letter f used 109541 times
+Letter r used 109545 times
+Letter q used 109551 times
+Letter u used 109552 times
+Letter i used 109553 times
+Letter t used 109554 times
+Letter a used 109556 times
+Letter l used 109557 times
+Letter o used 109558 times
+Letter n used 109559 times
+Letter e used 109560 times
+Letter . used 109561 times
+Letter Enter used 109562 times
+Length of text: 133310
+
+Letter  -  ~   used   1   times. Percent  0.0008
+Letter  -  &   used   2   times. Percent  0.0015
+Letter  -  2   used   3   times. Percent  0.0023
+Letter  -  /   used   4   times. Percent  0.003
+Letter  -  Ц   used   6   times. Percent  0.0045
+Letter  -  "   used   7   times. Percent  0.0053
+Letter  -  9   used   10   times. Percent  0.0075
+Letter  -  С   used   12   times. Percent  0.009
+Letter  -  :   used   28   times. Percent  0.021
+Letter  -  )   used   47   times. Percent  0.0353
+Letter  -  z   used   61   times. Percent  0.0458
+Letter  -  ;   used   69   times. Percent  0.0518
+Letter  -  x   used   72   times. Percent  0.054
+Letter  -  q   used   92   times. Percent  0.069
+Letter  -  !   used   100   times. Percent  0.075
+Letter  -  ?   used   132   times. Percent  0.099
+Letter  -  j   used   222   times. Percent  0.1665
+Letter  -  -   used   322   times. Percent  0.2415
+Letter  -  v   used   711   times. Percent  0.5333
+Letter  -  k   used   1234   times. Percent  0.9257
+Letter  -  '   used   1277   times. Percent  0.9579
+Letter  -  p   used   1456   times. Percent  1.0922
+Letter  -  Ent   used   1493   times. Percent  1.1199
+Letter  -  ,   used   1635   times. Percent  1.2265
+Letter  -  y   used   1769   times. Percent  1.327
+Letter  -  b   used   1795   times. Percent  1.3465
+Letter  -  .   used   1885   times. Percent  1.414
+Letter  -  f   used   2046   times. Percent  1.5348
+Letter  -  c   used   2092   times. Percent  1.5693
+Letter  -  m   used   2281   times. Percent  1.711
+Letter  -  g   used   2545   times. Percent  1.9091
+Letter  -  w   used   2657   times. Percent  1.9931
+Letter  -  u   used   2738   times. Percent  2.0539
+Letter  -  l   used   4627   times. Percent  3.4709
+Letter  -  d   used   5108   times. Percent  3.8317
+Letter  -  r   used   5757   times. Percent  4.3185
+Letter  -  i   used   6555   times. Percent  4.9171
+Letter  -  s   used   6782   times. Percent  5.0874
+Letter  -  n   used   6965   times. Percent  5.2247
+Letter  -  h   used   7376   times. Percent  5.533
+Letter  -  o   used   7589   times. Percent  5.6927
+Letter  -  a   used   8044   times. Percent  6.0341
+Letter  -  t   used   8943   times. Percent  6.7084
+Letter  -  e   used   12948   times. Percent  9.7127
+Letter  -      used   23748   times. Percent  17.8141
